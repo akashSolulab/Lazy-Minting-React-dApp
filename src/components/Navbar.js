@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
         <a className="navbar-brand fs-2 fw-bold" href="https://opensea.io">
-          Lazy Minting
+          Lazy-Minting React dApp
         </a>
         <form className="d-flex" role="search">
           <input
